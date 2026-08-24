@@ -1,43 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:3b82f6&height=200&section=header&text=Sachi%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:3b82f6&height=200&section=header&text=Sachi%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 
-**Full-Stack Development&nbsp;•&nbsp;DSA&nbsp;•&nbsp;Intelligent Systems**
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Building+Full-Stack+%26+Intelligent+Systems;React+%2B+FastAPI+%2B+PostgreSQL" />
 
-<img src="https://komarev.com/ghpvc/?username=SachiTiwari04&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachitiwari04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<img src="https://komarev.com/ghpvc/?username=SachiTiwari04&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachitiwari04) [![Portfolio](https://img.shields.io/badge/Portfolio-1a53ff?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
 ---
 
-### 🧠 About Me
+## ⚡ The Stack
 
-- 🎓 Computer Science Engineering student at DSATM, Bengaluru
-- 💻 Focused on full-stack development, from backend systems to frontend interfaces
-- 🧠 Strengthening DSA and core computer science fundamentals
-- 🚀 Building scalable applications and AI-powered systems
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=cpp,python,typescript,js,react,tailwind,fastapi,django&perline=8" />
 
----
+### AI / ML
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](#) [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6d28d9?style=for-the-badge)](#)
 
-### ⚡ Tech Stack
+### Databases & Backend Services
+<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase&perline=8" />
 
-**Languages & Frontend**
-
-<img src="https://skillicons.dev/icons?i=cpp,python,typescript,js,react,tailwind&perline=8" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,firebase,supabase&perline=8" />
-
-**Tools**
-
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github&perline=8" />
 
 ---
 
-### 🚀 Featured Projects
+## 🧠 About Me
+
+|  |  |
+|---|---|
+| 🔭 **Working on** | Full-stack platforms that combine real-time data with AI-driven decision support |
+| 🌱 **Learning** | Advanced DSA, system design, and scalable backend architecture |
+| 👯 **Looking to collaborate on** | Full-stack and AI-integrated web projects |
+| 💬 **Ask me about** | React, FastAPI, PostgreSQL, Firebase, AI-powered app design |
+| ⚡ **Fun fact** | I like turning messy real-world data into dashboards that actually make sense |
+
+---
+
+## 🚀 Featured Projects
 
 **🛰️ [OrbitalOps AI — Satellite Mission Operations Platform](https://github.com/SachiTiwari04/orbitalops-ai)**
 Full-stack mission operations platform for satellite telemetry monitoring, anomaly detection, predictive analysis, and mission simulation, built during a Def-Space internship at BSERC. React dashboards connected to FastAPI REST APIs and PostgreSQL, with a mission intelligence pipeline for trend analysis and recommendation generation.
@@ -53,7 +54,7 @@ Farm management app for tracking livestock health, feeding, and vaccination reco
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -64,14 +65,30 @@ Farm management app for tracking livestock health, feeding, and vaccination reco
 
 ---
 
+## 🐍 Contribution Activity
+
 <div align="center">
 
-<i>"Building things that work, then making them work well."</i>
+<img src="https://raw.githubusercontent.com/SachiTiwari04/SachiTiwari04/output/github-snake-dark.svg" />
 
-### 🌐 Connect
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachitiwari04)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwarisachi2012@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:6d28d9&height=100&section=footer" />
 
 </div>
