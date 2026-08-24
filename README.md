@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Sachi Tiwari 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:3b82f6&height=200&section=header&text=Sachi%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=18&animation=fadeIn" />
 
-### Computer Science Engineering Student&nbsp;|&nbsp;Software Developer&nbsp;|&nbsp;Building Full-Stack & Intelligent Systems
+**Full-Stack Development&nbsp;•&nbsp;DSA&nbsp;•&nbsp;Intelligent Systems**
 
+<img src="https://komarev.com/ghpvc/?username=SachiTiwari04&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachitiwari04)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwarisachi2012@gmail.com)
 
 </div>
 
@@ -66,6 +66,12 @@ Farm management app for tracking livestock health, feeding, and vaccination reco
 
 <div align="center">
 
-📫 Reach me at **tiwarisachi2012@gmail.com**
+<i>"Building things that work, then making them work well."</i>
+
+### 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachitiwari04)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwarisachi2012@gmail.com)
 
 </div>
