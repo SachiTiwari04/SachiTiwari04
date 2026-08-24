@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Building+Full-Stack+%26+Intelligent+Systems;React+%2B+FastAPI+%2B+PostgreSQL" />
 
-<img src="https://komarev.com/ghpvc/?username=SachiTiwari04&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachitiwari04) [![Portfolio](https://img.shields.io/badge/Portfolio-1a53ff?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<img src="https://komarev.com/ghpvc/?username=SachiTiwari04&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sachitiwari04) [![Portfolio](https://img.shields.io/badge/Portfolio-1a53ff?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
 
 </div>
 
@@ -12,29 +12,38 @@
 
 ## ⚡ The Stack
 
+<div align="center">
+
 ### Languages & Frameworks
+
 <img src="https://skillicons.dev/icons?i=cpp,python,typescript,js,react,tailwind,fastapi,django&perline=8" />
 
 ### AI / ML
-[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](#) [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6d28d9?style=for-the-badge)](#)
+
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)](#)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6d28d9?style=for-the-badge)](#)
 
 ### Databases & Backend Services
+
 <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase&perline=8" />
 
 ### Tools
+
 <img src="https://skillicons.dev/icons?i=git,github&perline=8" />
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-|  |  |
-|---|---|
-| 🔭 **Working on** | Full-stack platforms that combine real-time data with AI-driven decision support |
-| 🌱 **Learning** | Advanced DSA, system design, and scalable backend architecture |
-| 👯 **Looking to collaborate on** | Full-stack and AI-integrated web projects |
-| 💬 **Ask me about** | React, FastAPI, PostgreSQL, Firebase, AI-powered app design |
-| ⚡ **Fun fact** | I like turning messy real-world data into dashboards that actually make sense |
+|                                  |                                                                                  |
+| -------------------------------- | -------------------------------------------------------------------------------- |
+| 🔭 **Working on**                | Full-stack platforms that combine real-time data with AI-driven decision support |
+| 🌱 **Learning**                  | Advanced DSA, system design, and scalable backend architecture                   |
+| 👯 **Looking to collaborate on** | Full-stack and AI-integrated web projects                                        |
+| 💬 **Ask me about**              | React, FastAPI, PostgreSQL, Firebase, AI-powered app design                      |
+| ⚡ **Fun fact**                   | I like turning messy real-world data into dashboards that actually make sense    |
 
 ---
 
@@ -79,9 +88,9 @@ Farm management app for tracking livestock health, feeding, and vaccination reco
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachitiwari04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwarisachi2012@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sachitiwari04)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tiwarisachi2012@gmail.com)
 
 </div>
 
