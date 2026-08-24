@@ -18,14 +18,20 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,python,typescript,js,react,tailwind,fastapi,django&perline=8" />
 
+<br />
+
 ### AI / ML
 
 [![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)](#)
 [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6d28d9?style=for-the-badge)](#)
 
+<br />
+
 ### Databases & Backend Services
 
 <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase&perline=8" />
+
+<br />
 
 ### Tools
 
